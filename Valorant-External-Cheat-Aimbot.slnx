@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src\ValorantCheat\ValorantCheat.csproj" />
+  <Project Path="Build.csproj" />
+</Solution>
