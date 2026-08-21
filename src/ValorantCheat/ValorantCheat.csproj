@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AssemblyName>ValorantCheat</AssemblyName>
+    <RootNamespace>ValorantCheat</RootNamespace>
+    <Description>Valorant External Cheat - Research Tool</Description>
+    <Version>3.1.0</Version>
+  </PropertyGroup>
+
+</Project>
